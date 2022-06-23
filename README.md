@@ -105,5 +105,4 @@ Once your server has started, go to this url `http://localhost:1234/` to see the
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
-## Authors
 
